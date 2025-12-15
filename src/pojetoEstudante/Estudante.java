@@ -17,11 +17,11 @@ public class Estudante {
 
     //métodos
     public static Estudante cadastrarEstudante(Scanner input){
-        System.out.print("\n Digite o nome: ");
+        System.out.print("\nDigite o nome: ");
         String nome = input.nextLine();
-        System.out.print("\n Digite o telefone: ");
+        System.out.print("\nDigite o telefone: ");
         String telefone = input.nextLine();
-        System.out.print("\n Estudante cadastrado com sucesso!");
+        System.out.print("\nEstudante cadastrado com sucesso!");
         return new Estudante(nome, telefone);
     }
 
