@@ -1,4 +1,4 @@
-Exercicio da Aula 3 da disciplina de POO - 2º Periodo do curso de Sistemas para Internet - IFTO
+Exercicio da Aula3: 19-09-2025, da disciplina de POO - 2º Periodo do curso de Sistemas para Internet - IFTO
 
 "Faça um programa que utilize duas classes: Iniciar e Estudante
 
